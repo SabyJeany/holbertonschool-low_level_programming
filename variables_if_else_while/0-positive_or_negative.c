@@ -22,7 +22,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d is positive\n");
+		printf("is positive\n");
 	}
 	return (0);
 }
